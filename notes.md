@@ -22,3 +22,7 @@ Value presenting [navigation links](https://developer.apple.com/documentation/sw
 
 
 new modifiers: .navigationDestination
+
+## Swift Charts
+
+[Hello Swift Charts WWDC](https://developer.apple.com/videos/play/wwdc2022/10136/)
